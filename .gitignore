@@ -1,0 +1,12 @@
+# PyCharm
+.idea
+venv
+
+# Installation
+*/x64
+*.bat
+*.nsi
+
+# Python
+*/__pycache__
+*.pyc

@@ -1,0 +1,4 @@
+wmi
+psutil
+pywin32
+PySimpleGUIQT

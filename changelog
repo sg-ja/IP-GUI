@@ -1,0 +1,5 @@
+0.0.2:
+    - added automatic update feature for the drop-list via time
+
+0.0.3:
+    - new Feature -> only one open window
